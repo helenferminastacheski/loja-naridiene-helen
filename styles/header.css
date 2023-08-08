@@ -4,3 +4,12 @@
     background-image: url("../img/Menu.svg");
     display: inline-block;
     }
+    @media  screem and (min-width: 768px){
+        .container__titulo{
+            font-size: 30px;
+            display: inline-block;
+        }
+    
+         .container__titulo{
+            font-weight: 400;
+         }
